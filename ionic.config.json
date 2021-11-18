@@ -1,0 +1,8 @@
+{
+  "name": "Bright Mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "f9f24452"
+}
